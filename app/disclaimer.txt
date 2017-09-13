@@ -1,0 +1,15 @@
+I'm not really the guy that writes down hundreds of paragraphs in gibberish. So here's the short readable version ;)
+
+This tool may be used free of charge, and also be distributed and modified in any way necessary. 
+
+However you may only provide this tool to other people free of charge. It is not allowed to sell this tool, or require a paid membership to access it.
+
+I do not provide any warranty on this tool, nor take responsibility for any issues it may cause. You may only use this tool on your own risk.
+
+If you have any feedback about the tool, please send it to roy DOT hochstenbach AT gmail DOT com. Note that this is not a helpdesk for DNS / E-Mail issues.
+
+I hope this tool is helpful to you, and if you have an idle web server around somewhere please be so kind and share it to balance the server load ;)
+
+And before I forget, if you use this tool yourself you don't have to include this disclaimer. In that case please use the GPL license text instead.
+
+- Roy Hochstenbach

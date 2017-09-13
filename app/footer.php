@@ -1,0 +1,1 @@
+<div id='footer'><font id='footerfont'>Version 0.3 beta. December 7 2011. Use at your own risk. <a href='spfgenerator.zip'>Download Source Code</a> | <a href='disclaimer.txt'>Disclaimer</a></font></div>

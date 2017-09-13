@@ -1,0 +1,20 @@
+SPF Generator
+-------------
+
+
+Release Notes:
+
+Version 0.3 beta (December 7, 2011)
+
+- Moved stylesheet to external file
+- Graphical enhancements
+- Fixed a bug where the generated SPF would not fit in the box in Internet Explorer.
+
+Version 0.2 beta (December 6, 2011)
+
+- Comments added to the code
+- Fixed a bug where the 'any' checkbox would be ignored if some text has been entered in its field.
+- Disclaimer added
+
+Version 0.1 beta (December 6, 2011)
+First beta release

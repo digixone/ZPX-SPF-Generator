@@ -1,0 +1,74 @@
+html {
+height: 80%;
+}
+table {
+white-space: nowrap;
+}
+body {
+font-family:tahoma;
+font-size: 13px;
+}
+th {
+text-align: left;
+}
+td {
+min-width: 120px;
+}
+#spftable {
+border-collapse: collapse;
+}
+.centered {
+text-align: center;
+width: 50px;
+}
+
+#srvrecord_generated {
+border: 1px solid lightgrey;
+width: 100%;
+overflow-x: auto;
+overflow-y: none;
+height: 30px;
+text-align: center;
+-moz-border-radius: 5px;
+border-radius: 5px;
+background-color: #E4EEFF;
+}
+
+$container {
+text-align: center;
+}
+#footer {
+text-align: right;
+position: absolute;
+bottom: 5px;
+right: 5px;
+}
+#footerfont {
+font-size: 0.8em !important;
+}
+
+#generatebutton {
+width: 100px;
+height: 30px;
+border: 1px solid black;
+background-color: lightgrey;
+margin-top: 10px;
+font-size: 1.2em;
+}
+
+.textbox, .selectbox {
+width: 150px;
+}
+
+.textbox {
+background-color: #E4EEFF;
+}
+
+#info {
+border: 1px solid black;
+margin-top: 10px;
+margin-bottom: 25px;
+margin-left: 10px;
+margin-right: 25px;
+padding: 10px;
+}
