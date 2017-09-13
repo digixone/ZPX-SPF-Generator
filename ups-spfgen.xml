@@ -1,0 +1,10 @@
+<updateserver>
+<latestversion>100</latestversion>
+<desc>Sender Policy Framework (SPF) is an email validation system designed to prevent email spam by detecting email spoofing, a common vulnerability, by verifying sender IP addresses.</desc>
+<updatedesc>ZPX SPF Generator Version 1.</updatedesc>
+<authorname>JD1pinoy</authorname>
+<authoremail>jd1pinoy@gmx.ph</authoremail>
+<authorurl>http://zpxmod.net.tf</authorurl>
+<downloadurl>http://zpxmod.net.tf/filebox/zpp/apc_module.zpp</downloadurl>
+<ostype>all</ostype>
+</updateserver>
